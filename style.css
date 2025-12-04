@@ -14,12 +14,12 @@ body {
 }
 
 .animal-image {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 
 .animal-image img {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     object-fit: cover;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
